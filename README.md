@@ -7,9 +7,11 @@
 # Plie
 DS x Maison Margiela Line 23 "Plie" — A 2-Seater GT Coupe design concept reimagining automotive architecture through deconstructivism.
 
-<p align="center">
-  <img width="100%" alt="Make Realistic like the cover jacket of fashion magazine" src="https://github.com/user-attachments/assets/c861aa53-09b2-4ffd-8bd5-e8475bd3c03e" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c861aa53-09b2-4ffd-8bd5-e8475bd3c03e" width="100%" alt="Vogue Magazine Cover Jacket" />
+</div>
+
+<br>
 
 # DS x MM No.23 "Plie" — 2-Seater GT Coupe
 > **A Collaboration Project between DS Automobiles & Maison Margiela**
