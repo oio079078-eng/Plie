@@ -8,6 +8,7 @@ DS x Maison Margiela Line 23 "Plie" — A 2-Seater GT Coupe design concept reima
 > *Rediscovering Automotive Architecture through Deconstructivism and Haute Couture.*
 
 ---
+<img width="1200" height="1816" alt="0f57a1ba9e78110093b9426fe6fb728b" src="https://github.com/user-attachments/assets/c5c74ff2-6c49-4d2c-955b-09ccfb2affd2" />
 
 ## 📌 Project Overview
 **DS x MM No.23 "Plie"** is a conceptual anniversary collaboration project that merges the avant-garde spirit of **DS Automobiles** with the convention-defying philosophy of **Maison Margiela**.
@@ -17,7 +18,7 @@ Commemorating the 50th anniversary of the legendary **DS 23** (originally launch
 ---
 <img width="1920" height="1080" alt="Make Realistic" src="https://github.com/user-attachments/assets/1a81e56e-3ad9-4a68-890f-3649a19640eb" />
 <img width="1256" height="832" alt="ComfyUI_00015_" src="https://github.com/user-attachments/assets/3eaf358f-74c6-4704-abe9-853eccc70e91" />
-<img width="1200" height="1816" alt="0f57a1ba9e78110093b9426fe6fb728b" src="https://github.com/user-attachments/assets/c5c74ff2-6c49-4d2c-955b-09ccfb2affd2" />
+
 
 ## 🎨 Design Story
 
