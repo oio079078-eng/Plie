@@ -8,7 +8,7 @@
 DS x Maison Margiela Line 23 "Plie" — A 2-Seater GT Coupe design concept reimagining automotive architecture through deconstructivism.
 
 <p align="center">
-<img width="1920" height="1080" alt="Make Realistic like the cover jacket of fashion magazine" src="https://github.com/user-attachments/assets/c861aa53-09b2-4ffd-8bd5-e8475bd3c03e" />
+  <img width="100%" alt="Make Realistic like the cover jacket of fashion magazine" src="https://github.com/user-attachments/assets/c861aa53-09b2-4ffd-8bd5-e8475bd3c03e" />
 </p>
 
 # DS x MM No.23 "Plie" — 2-Seater GT Coupe
@@ -34,12 +34,16 @@ Commemorating the 50th anniversary of the legendary **DS 23** (originally launch
 * **GT Silhouette**: The razor-sharp proportions and low-slung stance of the 2-seater GT Coupe visually manifest the kinetic tension of a *Plie* stance, anchoring the vehicle closer to the ground during high-speed cruising.
 <p align="center">
    <img width="1080" height="713" alt="image" src="https://github.com/user-attachments/assets/aab9bd6f-8cef-4713-aa74-6843d70abfc0" />
-  <img width="1920" height="1080" alt="Make Realistic" src="https://github.com/user-attachments/assets/1a81e56e-3ad9-4a68-890f-3649a19640eb" />
+</p>
+<p align="center">
+   <img width="1920" height="1080" alt="Make Realistic" src="https://github.com/user-attachments/assets/1a81e56e-3ad9-4a68-890f-3649a19640eb" />
 </p>
   * **Layered Body**: Moving away from traditional monolithic surfacing, the vehicle's core is meticulously enveloped in overlapping layers of satin and velvet textures, translating Margiela's signature tailoring techniques into automotive sheet metal.
   <p align="center">
  <img width="1200" height="1816" alt="0f57a1ba9e78110093b9426fe6fb728b" src="https://github.com/user-attachments/assets/c5c74ff2-6c49-4d2c-955b-09ccfb2affd2" />
-<img width="2732" height="4098" alt="image" src="https://github.com/user-attachments/assets/db29d636-521d-405f-aea6-516155e282fd" />
+</p>
+<p align="center">
+     <img width="2732" height="4098" alt="image" src="https://github.com/user-attachments/assets/db29d636-521d-405f-aea6-516155e282fd" />
 </p>
     * **Exposed Savoir-faire**: Mirroring Margiela’s deconstructive philosophy of exposing inner linings and raw seams, the deliberate gaps and split lines between aerodynamic body panels are boldly laid bare, elevating the beauty of the production process into a core aesthetic value.
   <p align="center">
