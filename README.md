@@ -1,3 +1,4 @@
+<img width="960" height="540" alt="01" src="https://github.com/user-attachments/assets/052516c2-9d9e-432a-a235-72df86854f77" />
 <p align="center">
 <img width="491" height="102" alt="image" src="https://github.com/user-attachments/assets/38b2d65a-6cce-4b8c-a14c-c89283148a74" />
 <img width="619" height="358" alt="image" src="https://github.com/user-attachments/assets/7a2144ae-1434-4e4e-a85e-c600c646a652" />
@@ -48,12 +49,18 @@ Commemorating the 50th anniversary of the legendary **DS 23** (originally launch
 ### 2. Interior: The Couture Cockpit
 * **Tango Interaction**: Inspired by the theme of interdependence and mutual trust from Maison Margiela's 2021 Co-ed Spring-Summer Collection (*S.W.A.L.K.*), the interior is distilled into a concentrated 2-seater environment that maximizes the sensory connection between the driver, passenger, and machine.
 * **Layered Bucket Seat**: Borrowing heavily from Margiela’s couture costume draping, the bucket seats are constructed with multi-layered materials that seamlessly embrace (*Plie*) the human anatomy, delivering both uncompromised lateral support for grand touring and supreme comfort.
+  <p align="center">
+<img width="1280" height="1024" alt="26" src="https://github.com/user-attachments/assets/947fef9b-0573-4892-8a22-0c3c58c64ddc" />
+
+</p>
 
 ### 3. Interaction & CMF: The Folded Interface
 * **Folded HUD**: The Head-Up Display (HUD) is sculpted in the form of folded fabrics, seamlessly integrating the fashion house's identity into the dashboard architecture. Digital data gently projects through the creases of the textile form, offering an analog, tactile user experience.
 * **Octagonal Control**: The horizontally elongated octagonal steering wheel eliminates visual clutter, while its integrated display provides immediate, intuitive telemetry updates without disruptive blinking elements.
 * **CMF Strategy**: By orchestrating a deliberate collision between high-performance carbon fibers and ultra-soft satin coatings, the CMF language breaks down the traditional boundaries between rigid industrial design and fluid fashion.
-
+    <p align="center">
+<img width="960" height="540" alt="22" src="https://github.com/user-attachments/assets/f7ea9d00-5d28-470e-98d2-482f5c41dc77" />
+</p>
 ---
 
 ## 📂 Repository Structure
