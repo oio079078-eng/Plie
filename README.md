@@ -8,32 +8,32 @@ DS x Maison Margiela Line 23 "Plie" — A 2-Seater GT Coupe design concept reima
 
 ---
 
-## 📌 Project Overview (프로젝트 개요)
-**DS x MM No.23 "Plie"**는 프랑스의 전위적인 럭셔리 자동차 브랜드 **DS Automobiles**와 패션의 관습을 깨는 **Maison Margiela(메종 마르지엘라)**의 가상 N주년 콜라보레이션 프로젝트입니다.[cite: 1]
+## 📌 Project Overview
+**DS x MM No.23 "Plie"** is a conceptual anniversary collaboration project that merges the avant-garde spirit of **DS Automobiles** with the convention-defying philosophy of **Maison Margiela**.[cite: 1]
 
-1972년 출시되어 기술과 우아함의 정점을 찍었던 전설적인 모델 **DS 23**의 50주년을 기념하며, 메종 마르지엘라는 그동안 비워두었던 최후의 번호인 **'Line 23'**을 이 헌정 모델을 위해 공개합니다.[cite: 1] 'Plie(플리에)'는 프랑스어로 '접힌(Folded)'을 뜻하며, 발레에서 도약을 위해 에너지를 응축하는 동작을 의미합니다. 본 프로젝트는 기계적인 강인함이 직물의 유연한 리듬으로 치환되는 찰나의 우아함을 **2인승 GT 쿠페**의 형상으로 구현했습니다.
+Commemorating the 50th anniversary of the legendary **DS 23** (originally launched in 1972)—the absolute pinnacle of heritage technology and French elegance—Maison Margiela officially unveils its long-vacant **'Line 23'** dedicated entirely to this grand touring tribute.[cite: 1] Derived from the French word for "folded," *Plie* represents the elegant balletic motion of bending the knees to gather fluid kinetic energy before a leap. This project translates that very transition—where mechanical rigidness dissolves into the poetic rhythm of textiles—into the form of a **2-seater GT Coupe**.
 
 ---
 
-## 🎨 Design Story (디자인 스토리)
+## 🎨 Design Story
 
 ### 1. Exterior: Aerodynamic Tailoring
-* **GT Silhouette**: 2인승 GT 쿠페 특유의 낮은 스탠스와 날카로운 비율은 고속 주행 시 지면으로 낮게 깔리는 '플리에' 동작의 긴장감을 시각화합니다.
-* **Layered Body**: 차체를 단일 패널이 아닌, 여러 겹의 새틴(Satin)과 벨벳(Velvet) 재질이 겹쳐진 레이어로 설계하여 마르지엘라 특유의 의복 구성 방식을 투영했습니다.[cite: 1]
-* **Exposed Savoir-faire**: 옷의 안감이나 솔기를 드러내는 마르지엘라의 기법처럼, 공기역학적 기능을 위해 분할된 패널 사이의 틈과 레이어를 대담하게 노출하여 '제작 공정의 아름바움'을 강조합니다.[cite: 1]
+* **GT Silhouette**: The razor-sharp proportions and low-slung stance of the 2-seater GT Coupe visually manifest the kinetic tension of a *Plie* stance, anchoring the vehicle closer to the ground during high-speed cruising.
+* **Layered Body**: Moving away from traditional monolithic surfacing, the vehicle's core is meticulously enveloped in overlapping layers of satin and velvet textures, translating Margiela's signature tailoring techniques into automotive sheet metal.[cite: 1]
+* **Exposed Savoir-faire**: Mirroring Margiela’s deconstructive philosophy of exposing inner linings and raw seams, the deliberate gaps and split lines between aerodynamic body panels are boldly laid bare, elevating the beauty of the production process into a core aesthetic value.[cite: 1]
 
 ### 2. Interior: The Couture Cockpit
-* **Tango Interaction**: 메종 마르지엘라 2021 S/S 컬렉션의 테마인 'Tango(탱고)'에서 영감을 얻어, 운전자와 동승자 두 사람 사이의 긴밀한 연결과 상호의존성을 극대화하는 2인승 콕핏을 완성했습니다.[cite: 1]
-* **Layered Bucket Seat**: 마르지엘라의 코스튬 컨셉을 차용하여 여러 겹의 소재가 신체를 부드럽게 감싸는(Plie) 구조로 설계되어, 그랜드 투어러에 걸맞은 지지력과 안락함을 동시에 제공합니다.[cite: 1]
+* **Tango Interaction**: Inspired by the theme of interdependence and mutual trust from Maison Margiela's 2021 Co-ed Spring-Summer Collection (*S.W.A.L.K.*), the interior is distilled into a concentrated 2-seater environment that maximizes the sensory connection between the driver, passenger, and machine.[cite: 1]
+* **Layered Bucket Seat**: Borrowing heavily from Margiela’s couture costume draping, the bucket seats are constructed with multi-layered materials that seamlessly embrace (*Plie*) the human anatomy, delivering both uncompromised lateral support for grand touring and supreme comfort.[cite: 1]
 
 ### 3. Interaction & CMF: The Folded Interface
-* **Folded HUD**: 헤드업 디스플레이를 접힌 패브릭(Folded Fabrics) 형상으로 설계하여, 디지털 정보가 천의 결 사이로 부드럽게 투영되는 듯한 아날로그적 경험을 제공합니다.[cite: 1]
-* **Octagonal Control**: 시야를 가리지 않는 가로형 팔각형 스티어링 휠은 안정적인 그립감을 제공하며, 내장된 디스플레이는 차량의 상태를 직관적으로 전달합니다.[cite: 1]
-* **CMF Strategy**: 기술적인 탄소 섬유(Carbon) 위에 부드러운 새틴 코팅을 결합하여 '단단함과 부드러움'이 공존하는 미학을 완성했습니다.
+* **Folded HUD**: The Head-Up Display (HUD) is sculpted in the form of folded fabrics, seamlessly integrating the fashion house's identity into the dashboard architecture. Digital data gently projects through the creases of the textile form, offering an analog, tactile user experience.[cite: 1]
+* **Octagonal Control**: The horizontally elongated octagonal steering wheel eliminates visual clutter, while its integrated display provides immediate, intuitive telemetry updates without disruptive blinking elements.[cite: 1]
+* **CMF Strategy**: By orchestrating a deliberate collision between high-performance carbon fibers and ultra-soft satin coatings, the CMF language breaks down the traditional boundaries between rigid industrial design and fluid fashion.
 
 ---
 
-## 📂 Repository Structure (저장소 구조)
+## 📂 Repository Structure
 ```text
 ├── Assets/                 # High-resolution rendering images & animations
 ├── Concepts/               # Initial ideation sketches & variation drawings
